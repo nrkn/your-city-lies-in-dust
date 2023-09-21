@@ -3,4 +3,4 @@
 Orthogonal City Generator
 
 1. Use periodicity of primes to create deterministic super blocks
-2. Use rng seeded with block location to decorate blocks internally
+2. Use RNG seeded with block location to decorate blocks internally
